@@ -1,4 +1,4 @@
-# 💳 Responsive Payment Gateway UI
+# 💳 Responsive Payment Gateway
 
 A clean, modern, and fully responsive **Payment Gateway interface** built with **HTML5**, **CSS3**, and **JavaScript**.
 
