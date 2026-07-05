@@ -1,8 +1,8 @@
 # 💳 Responsive Payment Gateway
 
-A clean, modern, and fully responsive **Payment Gateway interface** built with **HTML5**, **CSS3**, and **JavaScript**.
+A clean, modern, and fully responsive **Payment Gateway** built with **HTML5**, **CSS3**, and **JavaScript**.
 
-This project simulates a real-world payment page UI with a focus on simplicity, responsiveness, and user experience.
+This project simulates a real-world payment page with a focus on simplicity, responsiveness, and user experience.
 
 ---
 
